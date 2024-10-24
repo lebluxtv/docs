@@ -45,6 +45,10 @@ variables:
     type: number
     description: A running total of how many times a command has been run since application launch
     value: 17
+  - name: userCounter
+    type: number
+    description: A running total of how many times the command has been run by current user since application launch
+    value: 17
 commonVariables:
   - TwitchUser
   - TwitchBroadcaster
