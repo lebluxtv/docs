@@ -4,7 +4,7 @@ description: A brief history of Streamer.bot
 navigation: false
 ---
 
-Prior to the public release, `Streamer.bot`, previously known as `Channel Points Handler`, was available within the VR streaming comminuty for just over a year.
+Prior to the public release, `Streamer.bot`, previously known as `Channel Points Handler`, was available within the VR streaming community for just over a year.
 
 On `August 20th, 2021`, with the help of many amazing people, it was finally made available to everyone!
 
